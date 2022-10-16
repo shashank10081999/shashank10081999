@@ -1,16 +1,11 @@
-![MasterHead](https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif)
 <h1 align="center">Hi 👋, I'm Shashank Garimella</h1>
 <h3 align="center">A passionate Machine learning engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank10081999" alt="shashank10081999" /></a> </p>
 
 - 🔭 I’m currently working on [Sensor-Fault-Detection](https://github.com/shashank10081999/sensor-fault-detection)
-
 - 🌱 I’m currently learning **MongDb**
-
-- 💬 Ask me about **Data Science , Machine Learning , MySQL , Python ,**
-
+- 💬 Ask me about **Data Science , Machine Learning , MySQL , Python**
 - 📫 How to reach me **shashank25225@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,3 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank10081999&show_icons=true&locale=en&layout=compact" alt="shashank10081999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank10081999&" alt="shashank10081999" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank10081999" alt="shashank10081999" /></a> </p>
